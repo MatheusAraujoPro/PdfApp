@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pdfApp",
+    "slug": "pdfApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pdfApp"
+}
